@@ -1,0 +1,20 @@
+sections positions in csv::write
+
+serialization errors and their tests, translations
+
+validation tests
+  student properties DONE
+  grades
+  class validation
+
+XML attinfo generation
+
+ID tests and map DB ids
+
+test app
+
+Class orderBy and insertPosition methods (unique vector)
+
+config
+
+trim all strings
