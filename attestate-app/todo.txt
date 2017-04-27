@@ -1,0 +1,7 @@
+csv file read/write check
+
+empty year and issueDate values check
+
+document fill to lib with tests and check grade values
+
+issueDate handling
